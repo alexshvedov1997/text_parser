@@ -143,6 +143,7 @@
     <ClCompile Include="read_text_parse.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GreaterThan.h" />
     <ClInclude Include="read_text_parse.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

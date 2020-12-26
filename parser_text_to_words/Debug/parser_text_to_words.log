@@ -1,8 +1,7 @@
-﻿  parser_text_to_words.cpp
-  read_text_parse.cpp
-D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
-D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(39,3): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
-D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(48,2): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
-D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(49,2): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
-  Создание кода...
+﻿  read_text_parse.cpp
+D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\GreaterThan.h(7,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(50,3): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(59,2): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\projectC++\parser_text\parser_text_to_words\parser_text_to_words\read_text_parse.cpp(60,2): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
   parser_text_to_words.vcxproj -> D:\projectC++\parser_text\parser_text_to_words\Debug\parser_text_to_words.exe
